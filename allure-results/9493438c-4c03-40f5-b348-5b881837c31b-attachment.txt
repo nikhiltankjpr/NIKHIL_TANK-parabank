@@ -1,0 +1,2 @@
+Created Account: 
+<?xml version="1.0" encoding="UTF-8"?><accounts><account><id>13344</id><customerId>12212</customerId><type>CHECKING</type><balance>-1495377.07</balance></account><account><id>22224</id><customerId>12212</customerId><type>SAVINGS</type><balance>1500200.00</balance></account><account><id>22335</id><customerId>12212</customerId><type>SAVINGS</type><balance>100.00</balance></account><account><id>22446</id><customerId>12212</customerId><type>SAVINGS</type><balance>100.00</balance></account></accounts>
