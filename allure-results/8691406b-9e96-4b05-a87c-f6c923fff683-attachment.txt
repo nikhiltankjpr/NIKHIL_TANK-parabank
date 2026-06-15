@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><accounts><account><id>14343</id><customerId>13322</customerId><type>CHECKING</type><balance>515.50</balance></account></accounts>
